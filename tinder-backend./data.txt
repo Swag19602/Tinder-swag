@@ -1,0 +1,8 @@
+    {
+        "name":"Jeff Bezos",
+        "imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRze-h2FzjX3-dTT01Mp4Yx_bqzB2wrAd4Tcw&usqp=CAU"
+    },
+    {
+        "name":"Elon Musk",
+        "imgUrl":"https://static01.nyt.com/images/2021/01/30/business/29musk-print/29musk-1-mediumSquareAt3X.jpg"
+    },
